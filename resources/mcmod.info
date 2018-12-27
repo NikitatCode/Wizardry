@@ -1,0 +1,15 @@
+[
+  {
+  "modid": "wizardrynt",
+  "name": "Wizardry",
+  "version": "${PreAlpha}",
+  "mcversion": "${1.12.2}",
+  "description": "Nikitat's team's magic modification. Inspired by the films: \"The Lord of the Rings\", \"The Sorcerer's Apprentice\" and the modifications: \"Botania\", \"Ars Magica 2\". Idea by nikitat.",
+  "authorList": ["Nikitat(Programmer)"],
+  "credits": "Thanks Garik1303 for the motivation and models for this modification. Gratitude to the russian forum \"Minecraft Modding Forum\" (forum.mcmodding.ru) for helping to create this modification.",
+  "logoFile": "",
+  "useDependencyInformation" : true,
+  "requiredMods" : ["ncnt"],
+  "dependencies" : ["ncnt"]
+}
+]

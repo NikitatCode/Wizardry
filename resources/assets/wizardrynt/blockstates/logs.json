@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "wizardrynt:mystical_oak_log" },
+        "axis=z":   { "model": "wizardrynt:mystical_oak_log", "x": 90 },
+        "axis=x":   { "model": "wizardrynt:mystical_oak_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "wizardrynt:mystical_oak_bark" }
+    }
+}

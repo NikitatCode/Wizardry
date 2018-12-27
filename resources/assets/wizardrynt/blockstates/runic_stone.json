@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "type=0": { "model": "wizardrynt:runic_stone0" },
+    "type=1": { "model": "wizardrynt:runic_stone1" },
+    "type=2": { "model": "wizardrynt:runic_stone2" },
+    "type=3": { "model": "wizardrynt:runic_stone3" }
+  }
+}

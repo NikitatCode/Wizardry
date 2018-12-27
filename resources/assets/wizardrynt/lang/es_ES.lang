@@ -1,0 +1,25 @@
+#
+# Items
+wand_of_mystical_energy.name=Varita de energía mística
+wand_of_mystical_energy_with_runic_ink.name=Varita de energía mística con tinta rúnica
+wand_of_mystical_energy.billet.name=Palanquilla de varita de energía mística
+#
+# Bloсks
+wizardry.leaves.mystical_oak.name=Mystical Oak Leaves
+wizardry.log.mystical_oak.name=Mystical Oak Log
+wizardry.runic_stone.low_quality.name=Low Quality Runic Stone
+wizardry.runic_stone.name=Runic Stone
+wizardry.runic_stone.brick.name=Runic Stone Brick
+wizardry.runic_stone.brick.carved.name=Runic Stone Brick Carved
+#
+# Plants
+wizardry.flower.mana.name=Flor de maná
+wizardry.flower.runic.name=Flor de tinta rúnica
+wizardry.flower.solvent.name=Flor-disolvente alquímico
+wizardry.flower.mfire.name=Flor de fuego místico
+wizardry.sapling.mystical_oak.name=Plántula de místico roble
+#
+# Other
+myse.value.desc=Energía mística:
+runicink.value.desc=Tinta rúnica:
+dopn=§rTableros de roble oscurecido

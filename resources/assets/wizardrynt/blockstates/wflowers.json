@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "type=0": { "model": "wizardrynt:wflower0" },
+    "type=1": { "model": "wizardrynt:wflower1" },
+    "type=2": { "model": "wizardrynt:wflower2" },
+    "type=3": { "model": "wizardrynt:wflower3" }
+  }
+}

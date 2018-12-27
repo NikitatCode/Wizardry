@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "wizardrynt:items/wand_of_mystical_energy0"
+  }
+}

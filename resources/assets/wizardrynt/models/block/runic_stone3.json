@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wizardrynt:blocks/runic_stone_brick_carved"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "check_decay=true,decayable=false": {
+      "model": "wizardrynt:mystical_oak_leaves"
+    },
+    "check_decay=false,decayable=false": {
+      "model": "wizardrynt:mystical_oak_leaves"
+    },
+    "check_decay=true,decayable=true": {
+      "model": "wizardrynt:mystical_oak_leaves"
+    },
+    "check_decay=false,decayable=true": {
+      "model": "wizardrynt:mystical_oak_leaves"
+    }
+  }
+}

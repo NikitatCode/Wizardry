@@ -1,0 +1,7 @@
+{
+    "parent": "block/fire_side_alt",
+    "textures": {
+        "particle": "wizardrynt:blocks/mystical_fire0",
+        "fire": "wizardrynt:blocks/mystical_fire0"
+    }
+}

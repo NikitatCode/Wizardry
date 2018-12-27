@@ -1,0 +1,26 @@
+#
+# Items
+wand_of_mystical_energy.name= Wand of Mystical Energy
+wand_of_mystical_energy_with_runic_ink.name=Wand of Mystical Energy with Runic Ink
+wand_of_mystical_energy.billet.name=Billet of Wand of Mystical Energy
+#
+# Blocks
+wizardry.leaves.mystical_oak.name=Mystical Oak Leaves
+wizardry.log.mystical_oak.name=Mystical Oak Log
+wizardry.runic_stone.low_quality.name=Low Quality Runic Stone
+wizardry.runic_stone.name=Runic Stone
+wizardry.runic_stone.brick.name=Runic Stone Brick
+wizardry.runic_stone.brick.carved.name=Runic Stone Brick Carved
+#
+# Plants
+wizardry.flower.mana.name=Mana Flower
+wizardry.flower.runic.name=Flower of Runic Ink
+wizardry.flower.solvent.name=Flower with Alchemical Solvent
+wizardry.flower.mfire.name=Flower with Mystic Fire
+wizardry.sapling.mystical_oak.name=Sapling of Mystical Oak
+#
+# Other
+myse.value.desc=Mystical energy:
+runicink.value.desc=Runic ink:
+itemGroup.Wizardry=Wizardry
+dopn=§rDarkened Oak Planks

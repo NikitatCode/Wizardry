@@ -1,0 +1,25 @@
+#
+# Items
+wand_of_mystical_energy.name=Палочка мистической энергии
+wand_of_mystical_energy_with_runic_ink.name=Палочка мистической энергии с рунными чернилами
+wand_of_mystical_energy.billet.name=Заготовка палочки мистической энергии
+#
+# Blocks
+wizardry.leaves.mystical_oak.name=Листва мистического дуба
+wizardry.log.mystical_oak.name=Мистический дуб
+wizardry.runic_stone.low_quality.name=Низкокачестенный рунический камень
+wizardry.runic_stone.name=Рунический камень
+wizardry.runic_stone.brick.name=Кирпич из рунического камня
+wizardry.runic_stone.brick.carved.name=Резной кирпич из рунического камня
+#
+# Plants
+wizardry.flower.mana.name=Маноцвет
+wizardry.flower.runic.name=Цветок рунических чернил
+wizardry.flower.solvent.name=Цветок-алхимический растворитель
+wizardry.flower.mfire.name=Цветок мистического огня
+wizardry.sapling.mystical_oak.name=Саженец мистического дуба
+#
+# Other
+myse.value.desc=Мистическая энергия:
+runicink.value.desc=Рунические чернила:
+dopn=§rПотемневшие дубовые доски
